@@ -23,3 +23,7 @@ func Attack() string {
 func Defend() string {
 	return "You successfully blocked the enemy attack"
 }
+
+func Dodge() string {
+	return "You successfully dodge the enemy attack"
+}
