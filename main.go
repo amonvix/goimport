@@ -15,3 +15,7 @@ func Left() string {
 func Rigth() string {
 	return "turn to rigth"
 }
+
+func Attack() string {
+	return "You hit the enemy in front of you"
+}
