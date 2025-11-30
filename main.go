@@ -19,3 +19,7 @@ func Rigth() string {
 func Attack() string {
 	return "You hit the enemy in front of you"
 }
+
+func Defend() string {
+	return "You successfully blocked the enemy attack"
+}
